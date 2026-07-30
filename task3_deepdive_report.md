@@ -13,8 +13,7 @@ based on how recently, how often, and how much they buy.
 | At-Risk High Value | >180 days | Any | ≥₹1,50,000 |
 | Regular Customer | All others | - | - |
 
-# Results: Segment Summary
-[Paste your Query 3 output here]
+
 
 # Key Findings
 ## Finding 1: Champion Segment
